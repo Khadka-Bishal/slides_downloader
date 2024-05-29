@@ -1,1 +1,1 @@
-A program that assists in downloading all slides in pdf format from a specified URL. It has been tested with lecture slides for my mathematics and computer science courses.
+I wanted to avoid the hassle of downloading all the slides for my math and CS classes one by one. So, I created a program that automates the download of all slides in PDF format from a specified URL. This program has been tested with lecture slides for my mathematics and computer science courses.
